@@ -47,5 +47,6 @@ Take a look at the full algorithm in
 *Particles localizing a simulated car in a 2D map.
 
 ---
+Initially developed for Cornell’s CS4750 Robotic Foundations course.[^0]
 [^0]: https://www.cs.cornell.edu/courses/cs5750/2024fa/
 ``` :contentReference[oaicite:3]{index=0}  
