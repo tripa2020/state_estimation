@@ -15,7 +15,7 @@ It processes visual data from an overhead camera to estimate the pose of a robot
 ## Dive into the Core Implementation
 
 Take a look at the full algorithm in  
-[**particle_filter.py**](./particle_filter.py)  
+[**particle_filter.py**](./state_estimation/arm_state_estimation/src/arm_particle_filter/particle_filter.py)  
 
 ---
 
