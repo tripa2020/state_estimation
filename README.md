@@ -4,7 +4,6 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A set of ROS-based demos showcasing **particle filter** algorithms for state estimation and object tracking on both a robotic arm and a wheeled vehicle.  
-Initially developed for Cornell’s CS4750 Robotic Foundations course.[^0]
 
 ---
 ## Overview
